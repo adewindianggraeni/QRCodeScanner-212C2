@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRCodeScanner-212C2</string>
+    <string name="nama">Nama</string>
+    <string name="windi_anggraeni">Windi Anggraeni</string>
+    <string name="kelas">Kelas</string>
+    <string name="ti_21_c_2">TI.21.C.2</string>
+    <string name="nim">NIM</string>
+    <string name="_312110227">312110227</string>
+    <string name="qr_scan_code">QR Scan Code</string>
+</resources>
